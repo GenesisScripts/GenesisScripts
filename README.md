@@ -12,8 +12,8 @@ wider FiveM roleplay community.
 
 ## 🛒 Store & Links
 
-[![Tebex](https://img.shields.io/badge/Tebex-Store-blue?style=for-the-badge)](YOUR_TEBEX_LINK)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UQYvu52By9)
+[![Tebex](https://img.shields.io/badge/Tebex-Store-blue?style=for-the-badge)](https://genesis-scripts.tebex.io/)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/R7aNWUpsXq)
 
 ---
 Questions or support? Join the Discord above, happy to help :)
